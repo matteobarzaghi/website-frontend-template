@@ -1,0 +1,20 @@
+[
+    {
+        "title": "The Cat in the Hat",
+        "author": "Dr. Seuss",
+        "coverImage": "https://example.com/the-cat-in-the-hat.jpg",
+        "description": "Join the Cat in the Hat as he stirs up some mischief and fun in this classic children's book."
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "coverImage": "https://example.com/where-the-wild-things-are.jpg",
+        "description": "Follow Max on his wild and imaginative adventure to a land of monsters in this beloved classic."
+    },
+    {
+        "title": "Goodnight Moon",
+        "author": "Margaret Wise Brown",
+        "coverImage": "https://example.com/goodnight-moon.jpg",
+        "description": "Say goodnight to all the familiar objects in this classic bedtime book and drift off to sleep."
+    }
+]
